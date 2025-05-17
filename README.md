@@ -96,4 +96,5 @@ endmodule
 ![Screenshot 2025-04-22 161833](https://github.com/user-attachments/assets/ee97525e-72ed-4249-9d65-270adf8b033f)
 
 
-**Result**:The given logicate code is successfully verified using Verilog HTTP in QUTRUS II
+**Result**:The given logicate code is successfully verified 
+
